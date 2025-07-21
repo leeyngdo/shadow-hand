@@ -10,12 +10,12 @@ Shadow Hand is a suite of dexterous manipulation environments with 114 diverse r
 
 If you find this work useful in your research, please cite using the following BibTeX:
 
-@article{huang2021geometry,
-    title={Generalization in Dexterous Manipulation via Geometry-Aware Multi-Task Learning},
-    author={Huang, Wenlong and Mordatch, Igor and Abbeel, Pieter and Pathak, Deepak},
-    journal={arXiv preprint arXiv:2111.03062},
-    year={2021}
-}
+    @article{huang2021geometry,
+        title={Generalization in Dexterous Manipulation via Geometry-Aware Multi-Task Learning},
+        author={Huang, Wenlong and Mordatch, Igor and Abbeel, Pieter and Pathak, Deepak},
+        journal={arXiv preprint arXiv:2111.03062},
+        year={2021}
+    }
 
 <img src="images/teaser-animated.gif" width="550">
 
